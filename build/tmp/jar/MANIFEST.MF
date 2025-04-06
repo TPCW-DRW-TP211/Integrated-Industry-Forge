@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Specification-Title: integrated_industry
-Specification-Vendor: TP211
-Specification-Version: 1
-Implementation-Title: IntegratedIndustryMain
-Implementation-Version: 1.0.0
-Implementation-Vendor: TP211
-Implementation-Timestamp: 2025-04-07T08:10:49+0800
-
